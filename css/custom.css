@@ -1,0 +1,8 @@
+/*untuk button primary*/
+
+.pributton{
+	color: white;
+	background-color: #428bca;
+	border-radius: 25px;
+	width: 170px !important; 
+}
